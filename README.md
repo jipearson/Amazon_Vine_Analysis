@@ -28,5 +28,11 @@ Summary:<br>
 - 20990 of the unpaid reviews were given 5-stars.
 - 52.78% of unpaid reviews were 5-stars.
 <br>
-## Summary
+
+## Analysis Summary
+Based on our analysis results there is no evidence of positivity bias for the reviews in the Vine program, in fact vine reviewers proportionately gave slighly less 5-star reviews than the unpaid reviewers. 
+
+To get a more complete picture of potential positivity bias we could do the following:
+- From our vine_unpaid_df we should filter out reviews on products that do not have at least one Vine rating, this would help make the populations more alike. 
+- Using R perform a statistical summary of the two populations. 
 <br>
