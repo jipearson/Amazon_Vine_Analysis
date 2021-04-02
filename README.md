@@ -16,8 +16,9 @@ Summary:<br>
 ![](Images/paid_summary.PNG)<br>
 - There were a total of 107 paid vine reviews.
 - 56 of the vine reviews were given 5-stars.
-- 52.34% of paid reviews were 5-stars
+- 52.34% of paid reviews were 5-stars.
 <br>
+
 ### Unpaid Vine Rating Summary
 Table:<br>
 ![](Images/unpaid.PNG)<br>
@@ -25,7 +26,7 @@ Summary:<br>
 ![](Images/unpaid_summary.PNG)<br>
 - There were a total of 39768 unpaid reviews.
 - 20990 of the unpaid reviews were given 5-stars.
-- 52.78% of unpaid reviews were 5-stars
+- 52.78% of unpaid reviews were 5-stars.
 <br>
 ## Summary
 <br>
