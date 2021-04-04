@@ -34,5 +34,5 @@ Based on our analysis results there is no evidence of positivity bias for the re
 
 To get a more complete picture of potential positivity bias we could do the following:
 - From our vine_unpaid_df we should filter out reviews on products that do not have at least one Vine rating, this would help make the populations more alike. 
-- Using R perform a statistical summary of the two populations. 
+- Use R to perform a statistical summary of the two populations. 
 <br>
